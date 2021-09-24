@@ -1,4 +1,3 @@
-# AN-PAGE-Boilerplate
-Action Network Page Wrappers
+# Action Network Page Wrapper Boilerplates
 
 Stored here: CWA Web\Action Network\Wrappers\Pages\Boilerplate Development - Tracked on Github
